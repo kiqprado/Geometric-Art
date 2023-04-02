@@ -32,7 +32,7 @@ Conteúdo do projeto retirado de uma Série com 100 dias de JavaScript, com o de
 Veja o canal do projeto através [DESSE LINK](https://www.youtube.com/@AsmrProg).
 ## 🔖 Layout
 
-Você pode visualizar o resultado clincando neste [LINK](https://kiqprado.github.io/GeometricArt/).
+Você pode visualizar o resultado clincando neste [LINK](https://kiqprado.github.io/Geometric-Art//).
 
 ---
 <div>
